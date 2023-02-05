@@ -64,15 +64,9 @@ export default function Home() {
       <Spotify />
       <Links />
       <footer className="py-8 text-lg">
-        &lt;/&gt; by{" "}
-        <a
-          href="https://anirudhsoni.in"
-          className="text-blue-600 font-bold"
-          target={"blank"}
-        >
-          {" "}
-          Anirudh Soni{" "}
-        </a>
+        
+       "Tell your pet I said hi."
+       
       </footer>
     </div>
   );
