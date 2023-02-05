@@ -8,16 +8,16 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center gap-8 ">
       <Head>
-        <title>Anirudh Soni | Linktree | Web Developer</title>
+        <title>Sukriti Rajora| Linktree | Web Developer</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Anirudh Soni | Linktree | MERN and LAMP stack Web Developer"
+          content="Sukriti Rajora | Linktree | MERN and LAMP stack Web Developer"
         />
         <meta
           name="description"
-          content=" Hi, I am Anirudh Soni a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
+          content=" Hi, I am Sukriti Rajora a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
         />
         <meta
           name="keywords"
@@ -34,11 +34,11 @@ export default function Home() {
         <meta property="og:url" content="https://linktree.anirudhsoni.in/" />
         <meta
           property="og:title"
-          content="Anirudh Soni | Linktree | Web Developer"
+          content="Sukriti Rajora | Linktree | Web Developer"
         />
         <meta
           property="og:description"
-          content=" Hi, I am Anirudh Soni a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
+          content=" Hi, I am Sukriti Rajora a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
         />
         <meta property="og:image" content="/assets/images/banner.png" />
 
@@ -50,11 +50,11 @@ export default function Home() {
         />
         <meta
           property="twitter:title"
-          content="Anirudh Soni | Linktree | Web Developer"
+          content="Sukriti Rajora | Linktree | Web Developer"
         />
         <meta
           property="twitter:description"
-          content=" Hi, I am Anirudh Soni a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
+          content=" Hi, I am Sukriti Rajora a web developer from Rajasthan who focuses on user interfaces, including rich experiences, design."
         />
         <meta property="twitter:image" content="/assets/images/banner.png" />
       </Head>
