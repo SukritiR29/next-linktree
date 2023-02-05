@@ -8,7 +8,7 @@ export default function About() {
           About
         </p>
         <p>
-        I'm a third year engineering undergrad in Information Technology. 
+        Hey, I'm Sukriti. A third year engineering undergrad with specialization in Information Technology. 
         I'm a Web Developer and a UI/UX designer with experience in React, Python, JavaScript, 
         Data Structures and SQL. I've worked as a Software Engineering Intern at MiniOrange and 
         have been a finalist in the Smart India Hackathon'22.
