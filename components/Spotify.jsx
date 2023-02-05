@@ -4,7 +4,7 @@ export default function Spotify() {
   const [track, setTrack] = useState();
 
   useEffect(() => {
-    fetch("https://api.spotify.com/v1/me/player/recently-played?limit=1", {
+    fetch("https://open.spotify.com/user/31uc4qctz2x7u3nfcfrsuwjioviy?si=1uMafEZYShaO5c5WoWgG8g&utm_source=copy-link", {
       headers: {
         Authorization: process.env.NEXT_PUBLIC_SPOTIFY_KEY,
       },
