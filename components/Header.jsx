@@ -7,8 +7,8 @@ export default function Header() {
       <div className="text-left">
         <p className="text-3xl font-bold">Sukriti Rajora </p>
         <p>
-          <strong>Web Developer</strong> and
-          <strong>UI/UX</strong><strong>Designer</strong>.
+          <strong>Web Developer</strong> and a
+          <strong> UI/UX </strong><strong>Designer</strong>.
         </p>
       </div>
       <div className="avatar">
